@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.4c736b26.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.c185aea3.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.c185aea3.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.b2ab6e22.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.b2ab6e22.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reactportfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2dae8ef1.chunk.js": "/reactportfolio/static/js/2.2dae8ef1.chunk.js",
+    "static/js/2.2dae8ef1.chunk.js.map": "/reactportfolio/static/js/2.2dae8ef1.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reactportfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4c736b26.chunk.css.map": "/reactportfolio/static/css/main.4c736b26.chunk.css.map",
+    "static/js/2.2dae8ef1.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.2dae8ef1.chunk.js.LICENSE.txt",
+    "static/media/BBEnter.77502e2c.png": "/reactportfolio/static/media/BBEnter.77502e2c.png",
+    "static/media/RachelWankePort2.2f92d2ed.png": "/reactportfolio/static/media/RachelWankePort2.2f92d2ed.png",
+    "static/media/budgettracker.34de7368.png": "/reactportfolio/static/media/budgettracker.34de7368.png",
+    "static/media/burgerapp.08f19cbb.png": "/reactportfolio/static/media/burgerapp.08f19cbb.png",
+    "static/media/employeedirectory.72146043.png": "/reactportfolio/static/media/employeedirectory.72146043.png",
+    "static/media/lineseperator.cbd389a7.png": "/reactportfolio/static/media/lineseperator.cbd389a7.png",
+    "static/media/mindflo.36869c31.png": "/reactportfolio/static/media/mindflo.36869c31.png",
+    "static/media/passwordgenerator.f76d9e12.png": "/reactportfolio/static/media/passwordgenerator.f76d9e12.png",
+    "static/media/portartbackground.8bae71f9.png": "/reactportfolio/static/media/portartbackground.8bae71f9.png",
+    "static/media/profilegenerator.744a0cb8.png": "/reactportfolio/static/media/profilegenerator.744a0cb8.png",
+    "static/media/style.css": "/reactportfolio/static/media/skillbackground.c6ad1d6a.png",
+    "static/media/tarotcardsite.02322f95.png": "/reactportfolio/static/media/tarotcardsite.02322f95.png",
+    "static/media/weatherdashboard.3e9ed722.png": "/reactportfolio/static/media/weatherdashboard.3e9ed722.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2ab6e22.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2dae8ef1.chunk.js",
+    "static/css/main.4c736b26.chunk.css",
+    "static/js/main.c185aea3.chunk.js"
+  ]
+}
