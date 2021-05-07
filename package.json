@@ -1,7 +1,7 @@
 {
   "name": "reactporfolio",
   "version": "0.1.0",
-  "homepage": "www.rachelwanke.com",
+  "homepage": "rachelwanke.netlify.app",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
