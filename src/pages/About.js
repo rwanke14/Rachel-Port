@@ -24,7 +24,7 @@ function About() {
             <p className="aboutMeText">
               Rachel is an asipring web developer who has worked in the
               Washington, DC area for the past six years as an adminstrative
-              professional. As an admin professional she has built a solid
+              professional. As an admininstrative professional she has built a solid
               foundation for problem solivng, which she applies to learning code
               and visual design. There is never a problem that is too big to
               solve! As Eleanor Roosevelt once said, "Nothing has ever been
